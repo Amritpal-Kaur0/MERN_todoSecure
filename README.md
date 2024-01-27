@@ -10,4 +10,5 @@ Frontend-
 * User can create the todo
 * User can see Existing todos 
 * User can mark a todo as done-working on it (not done yet)
+* User can logout
 
